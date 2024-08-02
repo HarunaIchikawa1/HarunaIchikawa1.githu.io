@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+}
+.wrapper{
+    width: 100%;
+    margin: auto;
+    background-color: #ffffff80;
+}
+.nav{
+    overflow: auto;
+    width: 85%;
+    margin: 1em auto;
+}
+.nav ul{
+    width: 100%;
+    float: left;
+    text-align: center center;
+    margin-top: 15px;
+}
+.nav li{
+    display: inline-block;
+    text-align: center;
+}
+.nav li a{
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+}
+.nav img{
+    width: 100px;
+    height: 85px;
+}
